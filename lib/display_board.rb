@@ -8,7 +8,7 @@ def display_board
   # p row
   # p border
 end
-# 
+#
 # border          = "```"
 # row             = "   |   |   \n"
 # horizontal_line = "-----------\n"
